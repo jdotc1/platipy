@@ -1,3 +1,13 @@
+## About this fork
+
+This is a development fork of [pyplati/platipy](https://github.com/pyplati/platipy), the Python toolkit for medical-image processing and analysis. Its tools include DICOM-RT conversion, registration, atlas-based segmentation, contour visualization, and label comparison, with examples shaped by radiotherapy research workflows.
+
+Fork work includes upstream proposals for [upload filename validation (#318)](https://github.com/pyplati/platipy/pull/318), [API-key handling across redirects (#322)](https://github.com/pyplati/platipy/pull/322), and [service-log access controls (#325)](https://github.com/pyplati/platipy/pull/325). All three were open on 17 October 2026; their linked feature branches record the proposed changes.
+
+The [official documentation](https://pyplati.github.io/platipy/) explains installation, optional extras, and example workflows. [Compare the default branch with upstream](https://github.com/jdotc1/platipy/compare/pyplati:master...jdotc1:master) when selecting a source revision. The original overview, visual examples, and author attribution remain below.
+
+---
+
 # PlatiPy
 
 [![DOI](https://joss.theoj.org/papers/10.21105/joss.05374/status.svg)](https://doi.org/10.21105/joss.05374)
